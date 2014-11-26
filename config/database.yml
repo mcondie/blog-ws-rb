@@ -1,0 +1,6 @@
+development:
+  adapter: postgresql
+  database: blogws_dev
+  username: blogws
+  password: blogws
+  host: localhost
